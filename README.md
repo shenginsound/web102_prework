@@ -1,23 +1,24 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding games Website
 
-Submitted by: **Your Name Here**
+Submitted by: Chia-Sheng Cheng
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding games Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+-- I developed a search bar for users to search a games they're interested by a game name. If the game exists, it will shows, or the website shows no game found.
 
 ## Video Walkthrough
 
@@ -34,11 +35,13 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+While creating this app, I encountered difficulties that required me to review some JavaScript concepts and write corresponding code based on the requirements. I used resources from CodePath and searched online for relevant information. For example, understanding the difference between innerHTML and innerText, or when implementing the optional feature of a search bar, I discovered that if you input a blank space, it still returns search results. Therefore, it was necessary to restrict the input keywords to get accurate results.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright Chia-Sheng Cheng
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
