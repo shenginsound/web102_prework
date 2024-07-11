@@ -35,7 +35,7 @@ and dollars raised as well as the top two most funded games.
 
 5.The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
 
-<img src='https://imgur.com/a/AUbpE9p' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/AUbpE9p' title='Video Walkthrough' width='200 px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap.
