@@ -24,10 +24,21 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1.The introduction section explains the background of the company and how many games remain unfunded.
+
+2.Search bar- users can search games.
+
+3.The Stats section includes information about the total contributions 
+and dollars raised as well as the top two most funded games.
+
+4.The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+
+5.The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
+
+<img src='https://imgur.com/a/AUbpE9p' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Licecap.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
