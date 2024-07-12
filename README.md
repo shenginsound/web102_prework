@@ -39,7 +39,7 @@ and dollars raised as well as the top two most funded games.
 
 4.The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-<img src='https://i.imgur.com/iL99a7t.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/2zzWgyw.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 
 
