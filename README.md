@@ -38,10 +38,20 @@ and dollars raised as well as the top two most funded games.
 <img src='https://i.imgur.com/9pqu1kZ.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 
-4.The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+4.The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games, three buttons are listed below.
 
-ˋ4-1.Showing unfunded Games button:
+4-1.Showing unfunded Games button:
+
 <img src='https://i.imgur.com/aFTLRFo.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
+4-2.Showing funded Games button:
+
+<img src='https://i.imgur.com/GnRKaRK.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
+4-3.Showing All Games button:
+
+<img src='https://i.imgur.com/9wkatmP.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
