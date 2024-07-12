@@ -41,9 +41,6 @@ and dollars raised as well as the top two most funded games.
 
 <img src='https://i.imgur.com/2zzWgyw.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />  
 
-
-
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap.
 <!-- Recommended tools:
