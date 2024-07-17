@@ -30,6 +30,7 @@ function addGamesToPage(games) {
 
     // loop over each item in the data
     for(let i = 0; i<games.length; i++){
+        
         // create a new div element, which will become the game card
         let gameElements = document.createElement("div")
         gameElements.textContent = games.name
@@ -40,19 +41,25 @@ function addGamesToPage(games) {
         // about each game
         // TIP: if your images are not displaying, make sure there is space
         // between the end of the src attribute and the end of the tag ("/>")
-        gameElements.innerHTML = `
-        <img class ="game-img" src="${games[i].img}" alt="${games[i].name}">
-        <h2>${games[i].name}</h2>
-        <p>${games[i].description}</p>
-        <p>Pledged: $${games[i].pledged}</p>
-        <p>Goal: $${games[i].goal}</p>
-        <p>Backers: ${games[i].backers}</p>`
+        
+            gameElements.innerHTML = `
+            <img class ="game-img" src="${games[i].img}" alt="${games[i].name}">
+            <h2>${games[i].name}</h2>
+            <p>${games[i].description}</p>
+            <p>Pledged: $${games[i].pledged}</p>
+            <p>Goal: $${games[i].goal}</p>
+            <p>Backers: ${games[i].backers}</p>`
+
+        
     ;
+        
 
 
 
         // append the game to the games-container
         gamesContainer.appendChild(gameElements);
+    
+       
 
 
     }
@@ -62,7 +69,7 @@ function addGamesToPage(games) {
 
 // call the function we just defined using the correct variable
 // later, we'll call this function using a different list of games
-addGamesToPage(GAMES_JSON)
+filterFundedOnly(GAMES_JSON)
 
 
 /*************************************************************************************
