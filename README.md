@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-1.The introduction section explains the background of the company and how many games remain unfunded. Also, showing the Search bar- users can search games.
+1.The introduction section explains the background of the company and how many games remain unfunded. Also, showing the Search bar- users can search games. 
 
 <img src='https://i.imgur.com/ltWPikl.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
